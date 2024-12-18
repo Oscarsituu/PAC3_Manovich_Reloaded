@@ -29,8 +29,7 @@ Aquesta tecnologia el que fa és connectant a una impressora 3d i una intel·lig
     
 Aquest tipus de gastronomia tenen moltes utilitats, però sempre que la tecnòloga s'introdueix a un medi per poder salvar o millorar vides de qui ho pot necessitar, és el més important.
 La facilitat i la il·lusió de poder ingerir diferents aliments amb els seus gustos i aparença a una persona que només podia menjar pures, és una gran motivació per continuar endavant. Perquè no tots els aliments en poden triturar mantenint el gust real, en haver de barrejar-los amb altres aliments per donar-li la textura que necessites s'acaba modificant el gust d'ell i la seva aparença totalment. La diferència de poder menjar unes patates fregides amb la seva forma i gust, canvia a menjar-se un triturat. Traient-li la il·lusió des d'un nen petit que li han diagnosticat una malaltia així, a una persona jove que no pot fer vida normal a l'hora d'alimentar-se o una persona gran que no es troba bé i ha de menjar aquests aliments triturats, vulguis o no et pot arribar a canviar la vida completament i millorar l'esperança de les seves vides.
-![Cuina 3d](![pexels-dam-i-2147761795-29748127](https://github.com/user-attachments/assets/e9165e1a-0d1e-41de-8955-a4748089fc22")
-)
+![Gastronomia 3d](![pexels-dam-i-2147761795-29748127](https://github.com/user-attachments/assets/6c423f3a-0633-4306-aefc-3a0b7ff220dc)
 
 
 ## Cinemes interactius
@@ -55,7 +54,6 @@ Aquest tipus de contingut, no ho podem trobar a qualsevol lloc, és una tecnolog
 
 Pensant i poden observar durant el camí del món filmogràfic, podem veure una gran evolució del contingut, per poder ajudar al fet que tothom pugui enriquir-se de la cultura cinematogràfica i trobem que cada cop la tecnologia ens va poder gaudir molt més del que passa en la pantalla. I poder crear com una pel·lícula segons les decisions que prenguis durant ella, és un punt molt més favorable per captivar a l’espectador.
 ![Cine Interactiu](![pexels-tima-miroshnichenko-7991528](https://github.com/user-attachments/assets/4e9ecb0a-61bd-471d-abc1-88eeff2fb588)
-")
 
 
 ## Conclusió
