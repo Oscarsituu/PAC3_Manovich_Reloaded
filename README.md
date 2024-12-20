@@ -65,3 +65,4 @@ Si no hi hagués ganes de voler evolucionar i conformisme, no seria possible pod
 Manovich, Lev. (2013). **El software toma el mando** . Barcelona: Editorial UOC.
 Viridiana Tejada-Ortigoza **# Impresión 3D de alimentos, ¿qué es y con qué se come?**.
 Wikipedia **# Película interactiva**
+Fotografies: https://www.pexels.com/
